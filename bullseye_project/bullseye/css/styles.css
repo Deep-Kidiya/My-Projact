@@ -97,8 +97,9 @@ hr {
 
 @media (min-width: 1200px) {
     .container-fluid {
-        max-width: 1140px;
+        max-width: 1700px;
     }
+    
     .aw-row-override {
         margin-left: -5px;
         margin-right: -5px;
